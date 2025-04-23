@@ -1,0 +1,33 @@
+_repo: Geschwister-Pluddekamp-b-Roman_75824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Puttkamer, Jesco von
+    aliases:
+    - Puttkamer, Jesko von
+    - Von Puttkamer, Jesco
+    birthdate: 1858
+    deathdate: 1916
+    gutenberg_agent_id: '58166'
+    url: http://www.gutenberg.org/2009/agents/58166
+    wikipedia: https://de.wikipedia.org/wiki/Jesco_von_Puttkamer_(Schriftsteller)
+description: ''
+gutenberg_issued: '2025-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75824'
+language: de
+pgterms:marc905: 20200323141345puttkamer
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aReutlingen :$bEnßlin & Leiblins Verlagsbuchhandlung, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Geschwister Plüddekamp : $b Roman'
+url: http://www.gutenberg.org/ebooks/75824
